@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonas</h1>
-<h3 align="center">A trainee from Germany</h3>
+<h3 align="center">I am a Software Developer trainee from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jvo05&label=Profile%20views&color=b10eb4&style=flat" alt="jvo05" /> </p>
 
