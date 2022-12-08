@@ -2,7 +2,9 @@
 <h3 align="center">I am a Software Developer trainee from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jvo05&label=Profile%20views&color=b10eb4&style=flat" alt="jvo05" /> </p>
+<p align="left"> <img src="https://github.com/codespaces/badge.svg" alt="jvo05" /> </p>
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](COPIED-URL)
+![](https://img.shields.io/github/repo-size/mariojacob/z-downloads)
 
 - 🌱 I’m currently learning **Cobol and Python3**
 
