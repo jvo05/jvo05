@@ -2,6 +2,7 @@
 <h3 align="center">I am a Software Developer trainee from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jvo05&label=Profile%20views&color=b10eb4&style=flat" alt="jvo05" /> </p>
+<p align="left"> <img src="[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/k2ej.svg)](https://betteruptime.com/?utm_source=status_badge)" alt="jvo05" /> </p>
 
 - 🌱 I’m currently learning **Cobol and Python3**
 
