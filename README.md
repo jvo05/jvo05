@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonas</h1>
 <h3 align="center">I am a Software Developer apprentice from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jvo05&label=Profile%20views&color=b10eb4&style=flat" alt="jvo05" /> </p><p align="left"> <img src="https://img.shields.io/github/repo-size/mariojacob/z-downloads" alt="Repo Size" /> </p><p align="left"> <img src="https://betteruptime.com/status-badges/v1/monitor/k2ej.svg" alt="jvo05.de" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jvo05&label=Profile%20views&color=b10eb4&style=flat" alt="jvo05" /> </p><p align="left"> <img src="https://img.shields.io/github/repo-size/mariojacob/z-downloads" alt="Repo Size" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
