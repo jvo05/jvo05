@@ -11,7 +11,7 @@ I am a Software Developer apprentice from Germany
 * 🚀  I'm currently working on [DataNest](http://datanest.jvo05.de)
 * 🧠  I'm learning Flask and Front en Development
 * 🤝  I'm open to collaborating on Flask projects
-* ⚡  I am commiting war crimes to my Repositorys
+* ⚡  I am commiting war crimes to my repositorys
 
 ### Skills
 
