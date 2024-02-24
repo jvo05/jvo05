@@ -7,7 +7,7 @@ JVO05
 I am a Software Developer apprentice from Germany
 
 * 🌍  I'm based in Hessen/Germany
-* 🧠  I'm learning Flask and Front en Development
+* 🧠  I'm learning Flask and Front end Development
 * 🤝  I'm open to collaborating on Flask projects
 * ⚡  I am commiting war crimes to my repositorys
 
