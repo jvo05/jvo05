@@ -1,9 +1,6 @@
 Hi 👋 My name is Jonas
 ======================
 
-Junior Software Developer
--------------------------
-
 I'm a third-year software developer trainee with experience in Python and COBOL. Currently, I'm working with QML, C++, and JavaScript, focusing on front-end and embedded systems development. I enjoy solving real-world problems through code and continuously expanding my skill set.
 
 * 🌍  I'm based in Hessen, Germany
