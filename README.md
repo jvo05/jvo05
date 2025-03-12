@@ -4,7 +4,6 @@ Hi 👋 My name is Jonas
 I'm a third-year software developer trainee with experience in Python and COBOL. Currently, I'm working with QML, C++, and JavaScript, focusing on front-end and embedded systems development. I enjoy solving real-world problems through code and continuously expanding my skill set.
 
 * 🌍  I'm based in Hessen, Germany
-* ✉️  You can contact me at [jovo1408@gmail.com](mailto:jovo1408@gmail.com)
 * 🧠  I'm learning C++
 * 🤝  I'm open to collaborating on Python Flask Projects and QT Projects
 
